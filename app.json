@@ -44,7 +44,7 @@
    "TRACK_CHANNEL": {
       "description": "Channel id",
       "value": ""
-      "required":false
+      "required": false
   }
  }
 }
