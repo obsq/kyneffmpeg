@@ -25,13 +25,26 @@
       "value": "0.0.0.0",
       "required": false
   },
-   "": {
-      "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
+   "DATABASE_URL": {
+      "description": "Mongodb URI",
       "value": ""
   },
-   "START_MESG": {
-      "description": "Set /start Message",
+   "BOT_TOKEN": {
+      "description": "Bot token in string",
       "value": ""
+  },
+   "LOG_CHANNEL": {
+      "description": "Channel id",
+      "value": ""
+  },
+   "AUTH_USERS": {
+      "description": "Authorised user's id",
+      "value": ""
+  },
+   "TRACK_CHANNEL": {
+      "description": "Channel id",
+      "value": ""
+      "required":false
   }
  }
 }
