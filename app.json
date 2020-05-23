@@ -1,0 +1,37 @@
+{
+ "name": "kyneVideoManager",
+ "description": "Telegram video manager",
+ "logo": "https://telegra.ph/file/c3d25aa057a3aa2282d50.png",
+ "keywords": [
+   "telegram",
+   "kyneVideoManager"
+  ],
+ "repository": "https://github.com/obsq/animated-lamp",
+ "env": {
+   "API_ID": {
+      "description": "Your Telegram API ID. Get this value from my.telegram.org!",
+      "value": ""
+  },
+   "API_HASH": {
+      "description": " Your Telegram API hash. Get this value from my.telegram.org!",
+      "value": ""
+  },
+   "SESSION_NAME": {
+      "description": "Run Console this (python3 GenerateStringSession.py) ",
+      "value": ""
+  },
+   "HOST": {
+      "description": "Leave the Same Value",
+      "value": "0.0.0.0",
+      "required": false
+  },
+   "": {
+      "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
+      "value": ""
+  },
+   "START_MESG": {
+      "description": "Set /start Message",
+      "value": ""
+  }
+ }
+}
