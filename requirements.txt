@@ -1,6 +1,7 @@
 https://github.com/pyrogram/pyrogram/archive/asyncio.zip
-https://github.com/kkroening/ffmpeg-python
-https://github.com/DheerendraRathor/ffprobe3
+https://github.com/kkroening/ffmpeg-python.zip
+https://github.com/DheerendraRathor/ffprobe3.zip
+
 tgcrypto
 motor
 dnspython
