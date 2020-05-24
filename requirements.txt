@@ -1,7 +1,5 @@
 https://github.com/pyrogram/pyrogram/archive/asyncio.zip
-
-https://github.com/DheerendraRathor/ffprobe3.zip
-
+https://github.com/DheerendraRathor/ffprobe3/archive/asyncio.zip
 tgcrypto
 motor
 dnspython
