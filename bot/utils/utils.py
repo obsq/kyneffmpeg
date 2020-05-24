@@ -14,8 +14,6 @@ from pyrogram.errors import FloodWait
 
 from ..config import Config
 
-from ffprobe import FFProbe
-
 
 def is_valid_file(msg):
     if not msg.media:
