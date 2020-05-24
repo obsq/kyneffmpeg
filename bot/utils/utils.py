@@ -13,7 +13,8 @@ from pyrogram import InputMediaPhoto, InlineKeyboardMarkup, InlineKeyboardButton
 from pyrogram.errors import FloodWait
 
 from ..config import Config
-
+from ffprobe3 import FFProbe
+import ffmpeg-python
 
 def is_valid_file(msg):
     if not msg.media:
